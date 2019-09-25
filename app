@@ -1,1 +1,1 @@
-https://cdn.mittui.com/js/app.js|1
+https://cdn.kotakbiru.casa/js/app.js|1
